@@ -1,0 +1,15 @@
+{
+  "name": "oragitmsk-ssh",
+  "version": "0.1.0",
+  "author": "oragitmsk",
+  "summary": "Manage SSH",
+  "license": "Apache-2.0",
+  "source": "https://github.com/oragitmsk/puppet-ssh",
+  "project_page": "https://github.com/oragitmsk/puppet-ssh",
+  "issues_url": "https://github.com/oragitmsk/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
